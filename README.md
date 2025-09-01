@@ -1,12 +1,54 @@
-# React + Vite
+# 📝 React Todo List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive **Todo List app** built with React.  
+You can add, delete, and reorder tasks with an easy-to-use interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ➕ Add new todos
+- ❌ Delete existing todos
+- ⬆️⬇️ Move todos up and down
+- ⚡ Fast and responsive (powered by React)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- [React](https://react.dev/) (Frontend library)
+- JavaScript (Logic)
+- CSS (Styling)
+
+---
+
+## 📸 Demo
+
+![Alt Text](./Screenshot%202025-09-01%20at%2011.59.38 AM.png)
+
+## 📂 Project Setup
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Basudev-Pokharel/React_ToDoList.git
+   cd React_ToDoList
+   ```
+
+2. Install depdendencies:
+
+   ```bash
+   npm install
+
+   ```
+
+3. Start the development server
+
+   ```bash
+   npm run dev
+
+   ```
+
+## 🔗 Connect with Me
+
+[💼 LinkedIn Profile](https://www.linkedin.com/in/basudev-pokharel/)
