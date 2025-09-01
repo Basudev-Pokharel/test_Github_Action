@@ -1,0 +1,22 @@
+.todoBox {
+  background-color: yellow;
+  padding: 8px 4px;
+  margin: 2px 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+}
+.todoBox div {
+  display: flex;
+  gap: 10px;
+  margin: 0 4px;
+}
+.todoBox div button {
+  color: red;
+  font-size: 33px;
+  background: transparent;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}

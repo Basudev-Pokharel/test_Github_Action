@@ -1,0 +1,44 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+body {
+  /* padding-top: 20px; */
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.todobox {
+  overflow: scroll;
+  width: 700px;
+  background-color: red;
+  height: 800px;
+  padding: 20px;
+}
+.input_box {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 10px;
+  background-color: green;
+}
+.input_box input,
+.input_box button {
+  padding: 10px;
+  border-radius: 8px;
+}
+.input_box button {
+  /* .add { */
+  color: red;
+  font-size: 33px;
+  background: transparent;
+  border: none;
+  border-radius: 8px;
+  /* } */
+}
