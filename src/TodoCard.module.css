@@ -1,5 +1,6 @@
 .todoBox {
-  background: linear-gradient(135deg, #f9f9a8, #ffe066);
+  /* background: linear-gradient(135deg, #f9f9a8, #ffe066); */
+  background: linear-gradient(135deg, #535341, #f3c304);
   padding: 12px 16px;
   margin: 8px 0;
   display: flex;

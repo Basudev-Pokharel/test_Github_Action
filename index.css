@@ -1,5 +1,6 @@
 body {
-  background-color: rgb(227, 215, 215);
+  /* background-color: rgb(227, 215, 215); */
+  background-color: rgb(168, 94, 94);
   width: 100vw;
   display: flex;
   justify-content: center;
