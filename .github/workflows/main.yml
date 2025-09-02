@@ -1,0 +1,12 @@
+name: Test
+on: push
+jobs:
+  testbuild:
+      runs-on: ubuntu-latest
+      steps: 
+      - name: checkout node
+        uses: actions/checkout@v3
+      - name: npm installing
+        run: npm i
+      - name: build Now 
+        run: npm run build
