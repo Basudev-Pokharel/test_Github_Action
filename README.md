@@ -4,6 +4,7 @@ A simple and interactive **Todo List app** built with React.
 You can add, delete, and reorder tasks with an easy-to-use interface.
 
 ---
+[![Test](https://github.com/Basudev-Pokharel/test_Github_Action/actions/workflows/main.yml/badge.svg)](https://github.com/Basudev-Pokharel/test_Github_Action/actions/workflows/main.yml)
 
 ## 🚀 Features
 
@@ -52,3 +53,5 @@ You can add, delete, and reorder tasks with an easy-to-use interface.
 ## 🔗 Connect with Me
 
 [💼 LinkedIn Profile](https://www.linkedin.com/in/basudev-pokharel/)
+
+
