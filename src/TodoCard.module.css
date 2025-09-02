@@ -36,3 +36,6 @@
   transform: scale(1.2);
   color: #d9363e;
 }
+.todoBox h2::selection{
+  color: green;
+}
